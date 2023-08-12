@@ -16,7 +16,7 @@ pipeline {
       }
             
             steps{
-           git branch: 'main', url: 'https://github.com/ooghenekaro/Amazon-clone-Dockerized.git'
+           git branch: 'main', url: 'https://github.com/OlatundeTai-Lawal/Amazon-clone-project.git'
             }
         }
         // run sonarqube test
